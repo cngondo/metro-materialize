@@ -1,0 +1,44 @@
+.small-tile{
+  width: 140px;
+  height: 140px;
+  margin: 2.5px;
+}
+.medium-tile{
+  width: 285px;
+  height: 285px;
+  margin: 2.5px;
+  }
+.large-tile{
+  width: 435px;
+  height: 285px;
+  margin:2.5px;
+}
+.info-tile{
+  width: 140px;
+  height: 285px;
+  margin: 2.5px;
+}
+
+#red{
+   background: #8b0000;
+}
+#green{
+  background: #006400;
+}
+#blue{
+  background:#00008b ;
+}
+#yellow{
+  background:#9acd32 ;
+}
+#brown{
+  background:#d2b48c ;
+}
+#purple{
+  background:#800080 ;
+}
+#orange{
+  background: #ff4500 ;
+}
+
+
