@@ -1,22 +1,26 @@
+#contained{
+  width: 640px;
+  height: auto;
+}
 .small-tile{
   width: 140px;
   height: 140px;
-  margin: 2.5px;
+  margin: 1px;
 }
 .medium-tile{
-  width: 285px;
-  height: 285px;
-  margin: 2.5px;
+  width: 290px;
+  height: 300px;
+  margin: 1px;
   }
 .large-tile{
-  width: 435px;
-  height: 285px;
-  margin:2.5px;
+  width: 450px;
+  height: 290px;
+  margin:1px;
 }
 .info-tile{
   width: 140px;
-  height: 285px;
-  margin: 2.5px;
+  height: 290px;
+  margin: 1px;
 }
 
 #red{
